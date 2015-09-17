@@ -1,0 +1,19 @@
+{
+  "name": "roboCodeSetup",
+  "version": "1.0.0",
+  "description": "a setup utility to create a roboCode .NET dev environment",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AWoelfel/roboCodeSetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AWoelfel/roboCodeSetup/issues"
+  },
+  "homepage": "https://github.com/AWoelfel/roboCodeSetup"
+}
