@@ -2,7 +2,7 @@
   "name": "roboCodeSetup",
   "version": "1.0.0",
   "description": "a setup utility to create a roboCode .NET dev environment",
-  "main": "\"\"",
+  "main": "setup.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AWoelfel/roboCodeSetup/issues"
   },
-  "homepage": "https://github.com/AWoelfel/roboCodeSetup"
+  "homepage": "https://github.com/AWoelfel/roboCodeSetup",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
