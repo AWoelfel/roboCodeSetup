@@ -1,0 +1,13 @@
+D:\dev\robocode\DotNetBot\DotNetBot\bin\Debug\DotNetBot.dll
+D:\dev\robocode\DotNetBot\DotNetBot\bin\Debug\DotNetBot.pdb
+D:\dev\robocode\DotNetBot\DotNetBot\bin\Debug\robocode.dll
+D:\dev\robocode\DotNetBot\DotNetBot\bin\Debug\robocode.xml
+D:\dev\robocode\DotNetBot\DotNetBot\obj\Debug\DotNetBot.csprojResolveAssemblyReference.cache
+D:\dev\robocode\DotNetBot\DotNetBot\obj\Debug\DotNetBot.dll
+D:\dev\robocode\DotNetBot\DotNetBot\obj\Debug\DotNetBot.pdb
+D:\dev\roboCodeSetup\DotNetBot\bin\Debug\DotNetBot.dll
+D:\dev\roboCodeSetup\DotNetBot\bin\Debug\DotNetBot.pdb
+D:\dev\roboCodeSetup\DotNetBot\bin\Debug\robocode.xml
+D:\dev\roboCodeSetup\DotNetBot\obj\Debug\DotNetBot.csprojResolveAssemblyReference.cache
+D:\dev\roboCodeSetup\DotNetBot\obj\Debug\DotNetBot.dll
+D:\dev\roboCodeSetup\DotNetBot\obj\Debug\DotNetBot.pdb
